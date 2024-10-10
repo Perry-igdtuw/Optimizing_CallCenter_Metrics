@@ -59,9 +59,7 @@ The following frameworks and libraries are used in this project:
 
 By implementing this project, the call center can:
 - **Reduce AHT and AST** by understanding key drivers of extended call durations.
-- **Optimize IVR systems** to handle self-solvable issues more effectively.
-- **Automate call categorization**, improving operational efficiency and customer service through faster and more accurate routing.
-
+- **Optimize IVR systems**
 ## Installation
 
 To run this project, ensure the following libraries are installed:
